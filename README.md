@@ -1,3 +1,5 @@
+<div align="center">
+
 # Alura Store - Análise de Dados
 
 <img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" alt="Logo Análise de Dados" width="300"/>
