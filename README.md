@@ -44,7 +44,7 @@ Este projeto tem como objetivo analisar os dados de quatro lojas fictícias da r
 - Identificação da loja com pior desempenho
 - Recomendação final baseada em evidências
 
-*As análises foram feitas em Jupyter Notebook e podem ser facilmente visualizadas no Google Colab.*
+*As análises foram feitas no Google Colab e podem ser facilmente visualizadas no Jupyter Notebook.*
 
 ---
 
@@ -54,7 +54,7 @@ Para visualizar e executar o projeto, siga os passos abaixo:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/AzKatrine/challenge_one_data_science
    ```
 
 2. Abra o arquivo `.ipynb` com:
