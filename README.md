@@ -90,7 +90,9 @@ Este projeto foi realizado com o apoio da **Alura Latam** e **Oracle**, por meio
 
 ## 👩‍💻 Pessoas Desenvolvedoras do Projeto
 
-- Katrine Azevedo
+[<img src="https://github.com/AzKatrine/challenge_one_data_science/blob/main/autoria.jpeg" width="100px;" alt="Foto de Katrine Azevedo"/>](https://github.com/AzKatrine)  
+<br>  
+Feito por [Katrine Azevedo](https://github.com/AzKatrine)
 
 ---
 
