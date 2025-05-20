@@ -1,6 +1,6 @@
 # Alura Store - Análise de Dados
 
-![Capa do Projeto](https://img.freepik.com/free-vector/data-analysis-concept-illustration_114360-809.jpg?w=1380&t=st=1716220106~exp=1716220706~hmac=ccb7a83cd0a3f5cbdd07a76364054e08c2ee02b08eec1bba5c674b0b1cd51513)
+<img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" alt="Logo Análise de Dados" width="300"/>
 
 ---
 
