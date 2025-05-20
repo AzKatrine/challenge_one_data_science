@@ -56,7 +56,7 @@ Este projeto tem como objetivo analisar os dados de quatro lojas fictícias da r
 
 Para visualizar e executar o projeto, siga os passos abaixo:
 
-1. Clone o repositório:
+1. Clone este repositório:
    ```bash
    git clone https://github.com/AzKatrine/challenge_one_data_science
    ```
@@ -76,7 +76,7 @@ Para visualizar e executar o projeto, siga os passos abaixo:
 ## 🧰 Tecnologias Utilizadas
 
 - Python
-- Jupyter Notebook
+- Google Colab
 - Pandas
 - Matplotlib
 
